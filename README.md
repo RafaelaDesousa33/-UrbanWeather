@@ -11,6 +11,7 @@ O projeto também possui integração com um backend local, que permite consulta
 Caso o backend não esteja disponível, o sistema utiliza dados gerados localmente para continuar demonstrando seu funcionamento.
 
 <img src="imagem1.jpeg" alt="imagem 1 do projeto">
+<img src="imagem2.jpeg" alt="imagem 2 do projeto">
 
 **Tecnologias utilizadas:**
 - HTML
